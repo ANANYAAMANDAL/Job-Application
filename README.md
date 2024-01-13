@@ -1,2 +1,2 @@
 # Job-Application
-Job Application using JavaScript
+Job Application using Html and CSS
